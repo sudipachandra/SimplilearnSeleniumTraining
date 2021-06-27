@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="1">
+  <test name="Regression1">
+    <classes>
+      <class name="com.simplilearntraining.day5.testNgPack.testngExample"/> 
+      <class name="com.simplilearntraining.day5.testNgPack.testngExample2"/>
+      <class name="com.simplilearntraining.day5.testNgPack.testngExample3"/>
+      <class name="com.simplilearntraining.day5.testNgPack.CalorieCalculatorTestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
